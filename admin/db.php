@@ -1,0 +1,6 @@
+<?php
+    $DATABASE_SERVER = ':/var/lib/mysql/mysql.sock';
+    $DATABASE_NAME   = 'DATABASE NAME HERE';
+    $DATABASE_USER   = 'DATABASE USER NAME HERE';
+    $DATABASE_PASSWORD = 'DATABASE PASSWORD HERE';
+?>
